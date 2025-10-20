@@ -16,7 +16,7 @@ function App() {
               <HandshakeIcon className="w-10 h-10 text-white" />
             </div>
             <h1 className="text-5xl font-bold text-slate-900 mb-4">
-              Gestão de Ativos
+              Gestão Paschoalotto
             </h1>
             <p className="text-xl text-slate-600 max-w-2xl mx-auto">
               Escolha uma das opções abaixo para ser atendido rapidamente
