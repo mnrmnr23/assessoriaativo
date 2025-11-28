@@ -18,7 +18,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-6 py-4">
           <div className="flex items-center justify-center">
             <h1 className="text-3xl font-bold text-gray-800 tracking-tight">
-              <span className="text-blue-600">A</span>egea
+              <span className="text-blue-600">A</span>Soluções de Energia
             </h1>
           </div>
         </div>
@@ -28,7 +28,7 @@ function App() {
       <main className="max-w-4xl mx-auto px-6 py-16">
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
-            Bem-vindo à Aegea
+            Bem-vindo à Neoenergia
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
             Escolha uma das opções abaixo para ser atendido de forma rápida e eficiente
