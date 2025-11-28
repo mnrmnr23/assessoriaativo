@@ -18,7 +18,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-6 py-4">
           <div className="flex items-center justify-center">
             <h1 className="text-3xl font-bold text-gray-800 tracking-tight">
-              <span className="text-blue-600">A</span>Soluções de Energia
+              <span className="text-blue-600">Soluções de</span>Energia
             </h1>
           </div>
         </div>
