@@ -3,7 +3,7 @@ import { MessageCircle, FileText, CreditCard } from 'lucide-react';
 
 function App() {
   // Substitua pelo número real do WhatsApp
-  const whatsappNumber = "5571999381728"; // Formato: código do país + DDD + número
+  const whatsappNumber = "5548931940138"; // Formato: código do país + DDD + número
 
   const handleWhatsAppRedirect = (message: string) => {
     const encodedMessage = encodeURIComponent(message);
@@ -18,7 +18,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-6 py-4">
           <div className="flex items-center justify-center">
             <h1 className="text-3xl font-bold text-gray-800 tracking-tight">
-              <span className="text-blue-600">Atendimento Nio</span>
+              <span className="text-green-600">Atendimento Nio</span>
             </h1>
           </div>
         </div>
